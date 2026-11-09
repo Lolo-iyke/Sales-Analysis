@@ -19,7 +19,7 @@ The objective of this project was to analyze raw dataset records to uncover key 
 ## 🛠️ Tools & Techniques Used
 * **Microsoft Excel**
   * **Data Cleaning & Preparation:** Handling missing values, removing duplicates, and standardizing formatting.
-  * **Formulas & Functions:** `XLOOKUP`, `VLOOKUP`, `INDEX/MATCH`, `IF` statements, and advanced aggregate functions.
+  * **Formulas & Functions:** Advanced aggregate functions.
   * **Data Summarization:** Pivot Tables and Pivot Charts for dynamic filtering.
   * **Data Visualization:** Custom charts, KPI cards, and an interactive executive summary dashboard.
 
